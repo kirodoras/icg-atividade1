@@ -29,10 +29,14 @@ Este projeto visa realizar operações básicas de processamento de imagem utili
     ```bash
     ./pgmtohisto nome_da_imagem.pgm
     ```
-    3. O arquivo `histograma.txt` será gerado.
+    3. O arquivo `histograma.txt` e `histograma.pbm` será gerado.
     4. Visualize: 
     ```bash
     cat histograma.txt
+    ```
+    ou
+    ```bash
+    eog histograma.pbm
     ```
 
 ### 2. Separação em Componentes RGB (PPM)
@@ -56,6 +60,12 @@ Este projeto visa realizar operações básicas de processamento de imagem utili
 ## Resultados
 
 ### 1. Histograma de Tons de Cinza
+
+<div>
+    <img src="./resultados-em-png/histogramapbm.png" alt="Histograma de Tons de Cinza">
+</div>
+
+*Histograma gerado em pbm*
 
 <div>
     <img src="./resultados-em-png/histograma.png" alt="Histograma de Tons de Cinza">
