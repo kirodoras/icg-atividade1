@@ -71,7 +71,7 @@ Este projeto visa realizar operações básicas de processamento de imagem utili
     <img src="./resultados-em-png/histograma.png" alt="Histograma de Tons de Cinza">
 </div>
 
-*Histograma gerado no software planilhas Google com os dados do adquiridos do arquivo histograma.txt*
+*Histograma gerado no software planilhas Google com os dados adquiridos do arquivo histograma.txt*
 
 <a href="https://docs.google.com/spreadsheets/d/1qnaxtwKiIwx7Ej_nnb_mynNd0W5vB6zNEUwMHyUjSaA/edit#gid=0">
     Link para o arquivo de planilha
